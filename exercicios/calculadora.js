@@ -12,5 +12,5 @@ function calculadora(num1, num2, operacao) {
   }
 }
 
-let resultado = calculadora(5, 3, 3); //Foram passados os valores da função: 5 e 3 como números, e 1 para indicar qual tipo de cálculo eu quero realizar, nesse caso é a soma.
+let resultado = calculadora(5, 3, 1); //Foram passados os valores da função: 5 e 3 como números, e 1 para indicar qual tipo de cálculo eu quero realizar, nesse caso é a soma.
 console.log(resultado);
